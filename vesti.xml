@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<chanel>
+	<title>Paketi</title>
+	<link>https://vladimirovUros.github.io/AmazonSpirit/index.html</link>
+	<description>RSS za vesti</description>
+	<item>
+		<title>Najnoviji paket  - Premium paket</title>
+		<link>https://vladimirovUros.github.io/AmazonSpirit/index.html#paketi</link>
+		<description>Najnoviji paket ponude je stigao</description>
+	</item>	
+	<item>
+		<title>Najnoviji paket  - Plus paket</title>
+		<link>https://vladimirovUros.github.io/AmazonSpirit/index.html#paketi</link>
+		<description>Plus Paket - Vaš najbolji izbor</description>
+	</item>	
+</chanel>
+</rss>
