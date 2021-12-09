@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<chanel>
+<channel>
 	<title>Paketi</title>
 	<link>https://vladimirovUros.github.io/AmazonSpirit/index.html</link>
 	<description>RSS za vesti</description>
@@ -14,5 +14,5 @@
 		<link>https://vladimirovUros.github.io/AmazonSpirit/index.html#packages</link>
 		<description>Plus Paket - Vaš najbolji izbor</description>
 	</item>	
-</chanel>
+</channel>
 </rss>
