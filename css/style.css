@@ -297,6 +297,12 @@ input[type=text],input[type=number],input[type=email],textarea{
 	padding: 10px;
 	border: 1px solid #4d9126;
 	background-color: #4d9126;
+	color: #fff;
+}
+#prijava:hover{
+	background-color: rgba(149, 168, 138, 0.4);
+	color: black;
+	cursor: pointer;
 }
 #brojke{
 	width: 100%;
