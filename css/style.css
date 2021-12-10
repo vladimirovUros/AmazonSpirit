@@ -383,9 +383,13 @@ input[type=text],input[type=number],input[type=email],textarea{
 	background-color: rgba(138, 145, 38, 0.767);
 	font-size: 20px;
 	border-radius: 5px;
+	transition: 0.3s;
+	display: inline-block;
 }
 #title a:hover{
-	background-color: rgba(0,0,0,0.7);
+	background-color: rgba(0,0,0,0.5);
+	box-shadow: 0 0 10px white;
+	transform: scale(1.1);
 }
 h1{
 	font-size: 40px;
